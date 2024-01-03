@@ -7,6 +7,9 @@ const config = {
         paths: {
             assets: "https://jjagielka.github.io/svelte-pivottable-demo",
         },
+        alias: {
+            "$lib": "$src/lib"
+        }
     },
 };
 
