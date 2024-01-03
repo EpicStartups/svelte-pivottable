@@ -1,6 +1,6 @@
 {
   "name": "svelte-pivottable",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A Svelte-based pivot table with grouping",
   "scripts": {
     "dev": "vite dev",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jjagielka/svelte-pivottable.git"
+    "url": "git+https://github.com/epicstartups/svelte-pivottable.git"
   },
   "keywords": [
     "svelte",
@@ -17,14 +17,14 @@
     "pivottable"
   ],
   "author": {
-    "name": "Jakub Jagielka",
-    "email": "jjagielka@gmail.com"
+    "name": "Ming",
+    "email": "ming@epicstartups.co"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jjagielka/svelte-pivottable/issues"
+    "url": "https://github.com/epicstartups/svelte-pivottable/issues"
   },
-  "homepage": "https://github.com/jjagielka/svelte-pivottable#readme",
+  "homepage": "https://github.com/epicstartups/svelte-pivottable#readme",
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.1",
     "@sveltejs/kit": "^2.0.6",
